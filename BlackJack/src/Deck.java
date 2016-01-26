@@ -18,10 +18,10 @@ public class Deck
 							deck.add(new Card ("eight", "hearts", 8));
 							deck.add(new Card ("nine", "heart", 9));
 							deck.add(new Card ("ten", "hearts", 10));
-							deck.add(new Card ("Jack", "heart", 11));
-							deck.add(new Card ("Queen", "hearts", 12));
-							deck.add(new Card ("king", "hearts", 13));
-							deck.add(new Card ("ace", "diamonds", 14));
+							deck.add(new Card ("Jack", "heart", 10));
+							deck.add(new Card ("Queen", "hearts", 10));
+							deck.add(new Card ("king", "hearts", 10));
+							deck.add(new Card ("ace", "diamonds", 11));
 							deck.add(new Card("two", "diamonds", 2));
 							deck.add(new Card("three", "diamonds", 3));
 							deck.add(new Card("four", "diamonds", 4));
@@ -31,10 +31,10 @@ public class Deck
 							deck.add(new Card("eight", "diamonds", 8));
 							deck.add(new Card("nine", "diamonds", 9));
 							deck.add(new Card("ten", "diamonds", 10));
-							deck.add(new Card("Jack", "diamonds", 11));
-							deck.add(new Card("Queen", "diamonds", 12));
-							deck.add(new Card("King", "diamonds", 13));
-							deck.add(new Card ("ace", "spades", 14));
+							deck.add(new Card("Jack", "diamonds", 10));
+							deck.add(new Card("Queen", "diamonds", 10));
+							deck.add(new Card("King", "diamonds", 10));
+							deck.add(new Card ("ace", "spades", 11));
 							deck.add(new Card ("two", "spades", 2));
 							deck.add(new Card ("three", "spades", 3));
 							deck.add(new Card ("four", "spades", 4));			
@@ -44,10 +44,10 @@ public class Deck
 							deck.add(new Card ("eight", "spades", 8));
 							deck.add(new Card ("nine", "spades", 9));
 							deck.add(new Card ("ten", "spades", 10));
-							deck.add(new Card ("Jack", "spades", 11));
-							deck.add(new Card ("Queen", "spades", 12));
-							deck.add(new Card ("King", "spades", 13));
-							deck.add(new Card ("ace", "clubs", 14));
+							deck.add(new Card ("Jack", "spades", 10));
+							deck.add(new Card ("Queen", "spades", 10));
+							deck.add(new Card ("King", "spades", 10));
+							deck.add(new Card ("ace", "clubs", 11));
 							deck.add(new Card ("two", "clubs", 2));
 							deck.add(new Card ("three", "clubs", 3));
 							deck.add(new Card ("four", "clubs", 4));
@@ -57,9 +57,9 @@ public class Deck
 							deck.add(new Card ("eight", "clubs", 8));
 							deck.add(new Card ("nine", "clubs", 9));
 							deck.add(new Card ("ten", "clubs", 10));
-							deck.add(new Card ("jack", "clubs", 11));
-							deck.add(new Card ("queen", "clubs", 12));
-							deck.add(new Card ("King", "clubs", 13));
+							deck.add(new Card ("jack", "clubs", 10));
+							deck.add(new Card ("queen", "clubs", 10));
+							deck.add(new Card ("King", "clubs", 10));
 							
 							
 							
