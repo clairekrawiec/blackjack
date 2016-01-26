@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//github tester
 public class BlackJackRunner
 	{
 				public static int playerTotal;
